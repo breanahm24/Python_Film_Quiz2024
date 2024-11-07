@@ -24,7 +24,6 @@ Data Scientist Channel [data_scientist]. (2022, 21 Nov). Create a Typewriter eff
 Kinley [kinley3468]. (2023, 23 Feb). Installing Python Pandas on MacBook. [Video] YouTube. https://www.youtube.com/watch?v=H4CfMxE6Is4
 
 MyStudy [mystudyisfun]. (2019, 6 Dec). Import Excel data file into python pandas: Read Excel File. [Video] YouTube. https://www.youtube.com/watch?v=hT4b9vFZRB0 
-![image](https://github.com/user-attachments/assets/6d76f5d7-cceb-46f4-a89d-437ff8fac719)
 
 Stapleton, A. (2024) A1 Overview and Examples [Subject 52685 recorded video]. UTS Canvas. https://canvas.uts.edu.au
 
