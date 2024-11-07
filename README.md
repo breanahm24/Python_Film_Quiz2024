@@ -6,6 +6,10 @@ It is reccomended for this code to use IDLE in order to execute the quiz accurat
 2. Open IDLE and create a new file.
 3. Open the file 'FILM QUIZ IDLE.py' in the repositry and copy and paste the python code into your new IDLE file.
 4. Save the file onto your workspace and run using the IDLE shell.
+5. Enjoy using the film quiz!
 
 # What are the comments in the .py code?
 I have commented throughout the code file to ensure it is clear what each code intends to do or work with. It explains why it is necessary and demonstrates working with previous errors within the code.
+
+# Why do I get multiple film recs?
+As this is a prototype, the current outcome provides you with many options to watch. It is reccommended that you choose ONE film from the list as directed.
