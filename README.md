@@ -1,5 +1,8 @@
 # Python_Film_Quiz2024
 
+# Files Included
+The TESTING file and Excel file are both part of my coding errors and not in the final prototype. The final prototype is titled 'FILM QUIZ IDLE.py'
+
 # How to Run The Film Quiz
 It is reccomended for this code to use IDLE in order to execute the quiz accurately. To do so:
 1. Ensure you have IDLE downloaded onto your current workspace.
